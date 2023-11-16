@@ -18,6 +18,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  equatable: ^2.0.5
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -27,7 +28,7 @@ flutter:
 
   assets:
     - assets/images/
-  #   - images/a_dot_ham.jpeg
+    - assets/dummy_data/
 
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a

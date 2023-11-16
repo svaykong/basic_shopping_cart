@@ -1,0 +1,54 @@
+{
+  "gift_cards": [
+    {
+      "id": "1",
+      "name": "Steam Card",
+      "path": "assets/images/img_1.png"
+    },
+    {
+      "id": "2",
+      "name": "iTunes Card",
+      "path": "assets/images/img_2.png"
+    },
+    {
+      "id": "3",
+      "name": "Gift Card",
+      "path": "assets/images/img_3.png"
+    },
+    {
+      "id": "4",
+      "name": "Google Play Card",
+      "path": "assets/images/img_4.png"
+    },
+    {
+      "id": "5",
+      "name": "Amazon Card",
+      "path": "assets/images/img_5.png"
+    },
+    {
+      "id": "6",
+      "name": "Star Buck Card",
+      "path": "assets/images/img_6.png"
+    },
+    {
+      "id": "7",
+      "name": "Star Buck Drink Card",
+      "path": "assets/images/img_7.png"
+    },
+    {
+      "id": "8",
+      "name": "Roblox Card",
+      "path": "assets/images/img_8.png"
+    },
+    {
+      "id": "9",
+      "name": "Walmart Card",
+      "path": "assets/images/img_9.png"
+    },
+    {
+      "id": "10",
+      "name": "Digital Card",
+      "path": "assets/images/img_10.png"
+    }
+  ]
+}
